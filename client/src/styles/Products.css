@@ -1,0 +1,14 @@
+.product-link {
+    text-decoration: none !important;
+    color: rgb(255, 0, 0) !important;
+}
+
+
+/* for product show in desing  */
+
+.product-detail-row {
+    background-color: bisque;
+    text-decoration: none;
+    color: black;
+    border: 1px solid red;
+}

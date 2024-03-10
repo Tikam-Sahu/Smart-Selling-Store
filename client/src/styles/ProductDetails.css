@@ -1,0 +1,40 @@
+/* ProductDetailsStyles.css */
+
+/* Add your custom CSS here for styling */
+.product-details {
+    margin-top: 30px;
+}
+
+.product-details-info {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.similar-products {
+    margin-top: 30px;
+}
+
+.product-image {
+    width: 100%;
+    height: 300px;
+    object-fit: contain;
+    /* Adjust the image scaling as needed */
+}
+
+.my-btn {
+    padding: 8px 16px;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.my-btn:focus {
+    outline: none;
+}
+
+.my-btn:hover {
+    background-color: #fca311;
+    /* Change the color as needed on hover */
+}

@@ -1,0 +1,39 @@
+.registration-form-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.registration-form-container form {
+    display: flex;
+    flex-direction: column;
+}
+
+.registration-form-container label {
+    margin-bottom: 5px;
+}
+
+.registration-form-container input,
+.registration-form-container button,
+.registration-form-container label {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+.registration-form-container input[type="checkbox"] {
+    margin-right: 5px;
+}
+
+.registration-form-container button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.registration-form-container button:hover {
+    background-color: #0056b3;
+}

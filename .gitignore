@@ -1,0 +1,25 @@
+# Ignore backend node_modules
+/node_modules
+
+# Ignore a specific .env file in the backend
+.env
+
+# Ignore frontend node_modules
+client/node_modules/
+
+# Ignore frontend build artifacts
+client/build/
+
+# Ignore frontend environment files
+client/.env.local
+client/.env.development.local
+client/.env.test.local
+client/.env.production.local
+
+# Misc
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+.env

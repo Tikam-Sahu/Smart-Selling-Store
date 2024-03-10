@@ -1,0 +1,31 @@
+/* dashboard.css */
+.card {
+    background-color: #f3f3f3;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.details {
+    display: flex;
+    align-items: center;
+}
+
+.details h3 {
+    margin-right: 5px;
+    color: #333;
+}
+
+.name {
+    color: #ff6b6b;
+    /* Red */
+}
+
+.email {
+    color: #28a745;
+    /* Green */
+}
+
+.address {
+    color: #007bff;
+    /* Blue */
+}

@@ -1,0 +1,25 @@
+/* Footer.css */
+.footer {
+    color: white;
+    padding: 10px 25px;
+    /* Reduce the top and bottom padding */
+    background: linear-gradient(to right, #434343, #000000);
+}
+
+.links {
+    margin: 0;
+}
+
+.links a {
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    /* Reduce the font size for the links */
+    padding: 5px 10px;
+    /* Reduce the padding around the links */
+}
+
+.links a:hover {
+    color: #ffefba;
+    border-bottom: 1px solid #ffefba;
+}

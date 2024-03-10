@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Poppins:wght@300;400&display=swap');
+
+/* =============================================================================
+==========================universal selector Css ================================ */
+
+
+
+body {
+    margin-top: 70px;
+    /* Adjust this value to match the height of your fixed top navbar */
+}
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
